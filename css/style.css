@@ -1,0 +1,13 @@
+header{
+    height: 100vh;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+}
+.icon i{
+margin: 5px;
+}
